@@ -1,3 +1,4 @@
+# Covid Tracing Database - First Year UG Project
 This is my first year UG project, which is to build a database for covid tracing app
 
 Goal:
