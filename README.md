@@ -17,7 +17,7 @@ Linked list and binary tree method is implemented for the data structure.
 For the binary tree, dsw algorithm is used as the sorting algorithm
 
 ### Future Plan
-- Clean the code; segregating function into different subsection.
+- Clean the code; segregating function into different subsections and header file.
 - Adding new features, especially the ones highlighted in the ICBD part.
 
 
